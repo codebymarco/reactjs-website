@@ -7,6 +7,7 @@ const User = () => {
       <h1 className="logo">logo</h1>
       <div className="links">
         <Link to='/'>home</Link>
+        <Link to='/'>Settings</Link>
       </div>
     </div>
   )
